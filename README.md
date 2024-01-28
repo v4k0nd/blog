@@ -9,5 +9,7 @@ Currently trying:
 
 Testing:
 - linking: 
-	- [[Testing linking]]
-	- [Testing linkingg](Testing linking.md) 
+	- [[Testing linking]] <- as i guessed this notation is obsidian specific
+	- [Testing linkingg](Testing linking.md) <- correct linkage \[\<text\>\]\(\<source\>\)
+- images:
+	- ![[github-octocat.webp]]
