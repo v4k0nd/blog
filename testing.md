@@ -1,9 +1,9 @@
-| pages | [main](README.md) | [testing linking](testing\ linking.md) |
+| pages | [main 📄](README.md) | [testing 🧪](testing) | [testing linking 🧪🔗](testing-linking.md) |
 
 
 Page for testing how things work 🔧 with ObsidianMD and traditional Markdown / Github-flavoured Markdown
 ## linking: 
-- [[testing linking]] <- as i guessed this notation is obsidian specific
+- [[testing-linking]] <- as i guessed this notation is obsidian specific
 - [Testing linkingg](Testing linking.md) <- correct linkage \[\<text\>\]\(\<source\>\)
 
 ## images:
