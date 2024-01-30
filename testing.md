@@ -7,7 +7,7 @@ tags:
 Page for testing how things work 🔧 with ObsidianMD and traditional Markdown / Github-flavoured Markdown
 ## linking: 
 - [[testing-linking]] <- as i guessed this notation is obsidian specific
-- [Testing linkingg](Testing linking.md) <- correct linkage \[\<text\>\]\(\<source\>\)
+- [testing-linking](testing-linking.md) <- correct linkage \[\<text\>\]\(\<source\>\)
 
 ## images:
 #### Original image, normal Md style:
