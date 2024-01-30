@@ -1,6 +1,5 @@
-
 | pages | [main](README.md) | [testing linking](testing\ linking.md) |
-| ---- | ---- | ---- |
+
 
 Page for testing how things work 🔧 with ObsidianMD and traditional Markdown / Github-flavoured Markdown
 ## linking: 
