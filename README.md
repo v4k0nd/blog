@@ -6,6 +6,6 @@ So, I'll procrastinate no longer and try to get this to work.
 
 Currently trying:
 - no jekyll, only Markdown
-- written in Obsidian
+- written in Obsidian ![](https://obsidian.md/images/obsidian-logo-gradient.svg)
 - hosting on github pages
 - custom domain
